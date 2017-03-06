@@ -3,6 +3,8 @@ SpreeHideableTaxons
 
 This extension adds a `hidden` field to `Spree::Taxon` and hides taxons with `hidden == true` from the default menus. It also shows an additional "Hidden" checkbox in the admin panel.
 
+This is a reimplemntation of [the great work](https://github.com/markalinn/Spree-Hidden-Taxons) done by @markalinn updated for Spree 3.1+
+
 ## Installation
 
 1. Add this extension to your Gemfile with this line:
