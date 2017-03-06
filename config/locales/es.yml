@@ -1,0 +1,5 @@
+---
+es:
+  spree:
+    taxon:
+      hidden: Ocultar del menú
